@@ -1,6 +1,6 @@
 package org.example;
 
-public class Response{
+public class Todo {
 	private int id;
 	private boolean completed;
 	private String title;
